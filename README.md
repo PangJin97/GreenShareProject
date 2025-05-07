@@ -8,6 +8,6 @@
 ## 🔗 레포지토리
 | 구분         | 기술 스택                         | 링크                                                        |
 |--------------|----------------------------------|------------------------------------------------------------|
-| 📱 App       | React Native                      | [iot-project-app](https://github.com/your-username/iot-project-app) |
+| 📱 App       | React Native                      | https://github.com/PangJin97/greenShareApp |
 | 🌐 Frontend  | React                              | [iot-project-front](https://github.com/your-username/iot-project-front) |
 | 🖥️ Backend   | Java/Spring + MariaDB              | [iot-project-back](https://github.com/your-username/iot-project-back) |
