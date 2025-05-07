@@ -1,4 +1,4 @@
-# 🌱 IoT 기기 제어 및 커뮤니티 풀스택 프로젝트
+# IoT 기기 연동 및 웹, 앱 식물 커뮤니티 풀스택 개발 (Python, Java/Spring, React·React Native)
 
 ## 📖 개요
 - IoT 기기 자동제어 알고리즘 개발 (Python, Raspberry Pi)
