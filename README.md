@@ -6,8 +6,10 @@
 - 프론트엔드: React + React Native로 웹·앱 연동 구현
 
 ## 🔗 레포지토리
-| 구분         | 기술 스택                         | 링크                                                        |
-|--------------|----------------------------------|------------------------------------------------------------|
-| 📱 App       | React Native                      | https://github.com/PangJin97/greenShareApp |
-| 🌐 Frontend  | React                              | https://github.com/PangJin97/greenShareFront |
-| 🖥️ Backend   | Java/Spring + MariaDB              | https://github.com/PangJin97/greenShareBack |
+
+구분	기술 스택	링크
+📱 App	React Native	greenShareApp
+🌐 Frontend	React	greenShareFront
+🖥️ Backend	Java/Spring + MariaDB	greenShareBack
+🤖 IoT 제어	Python (Raspberry Pi)	greenSharePython
+
