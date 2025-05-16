@@ -20,13 +20,13 @@
 
 ## 📌 주요 기능
 - IoT 기기 상태 실시간 모니터링 및 자동 제어
-- 식물 관련 커뮤니티 기능 (게시판, 댓글, 좋아요 등)
+- 식물 관련 커뮤니티 기능 
 - 사용자 맞춤형 식물 관리 시스템
 - 모바일 앱 및 웹 연동을 통한 접근성 향상
 
 ## 🛠️ 사용 기술
 - **IoT 제어**: Python, Raspberry Pi, GPIO
-- **백엔드**: Java 11, Spring Boot, MariaDB, REST API
-- **프론트엔드**: React, React Native, Axios, Styled Components
-- **기타**: GitHub Actions, Gradle, Nginx
+- **백엔드**: Java, Spring Boot, MariaDB, REST API
+- **프론트엔드**: React, React Native, Axios
+- **기타**: GitHub, Notion
 
