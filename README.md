@@ -20,7 +20,7 @@
 
 ## 📱 App 시연 영상
 
-| 기능 설명                   | 데모 GIF |
+| 기능 설명                   | GIF |
 |----------------------------|----------|
 | 🌿 인기글 목록 확인        | ![인기글 목록](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/인기글%20목록.gif) |
 | 💬 댓글 등록 및 삭제 기능  | ![댓글 기능](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/식물이야기%20댓글%20등록%20삭제.gif) |
