@@ -18,6 +18,16 @@
 
 ---
 
+## 📱 App 시연 영상
+
+| 기능 설명                   | 데모 GIF |
+|----------------------------|----------|
+| 🌿 인기글 목록 확인        | ![인기글 목록](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/인기글%20목록.gif) |
+| 💬 댓글 등록 및 삭제 기능  | ![댓글 기능](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/식물이야기%20댓글%20등록%20삭제.gif) |
+| 🌱 작물 리스트 & 대시보드  | ![작물 리스트](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/작물리스트와%20대쉬보드.gif) |
+
+---
+
 ## 📌 주요 기능
 - IoT 기기 상태 실시간 모니터링 및 자동 제어
 - 식물 관련 커뮤니티 기능 
@@ -29,4 +39,3 @@
 - **백엔드**: Java, Spring Boot, MariaDB, REST API
 - **프론트엔드**: React, React Native, Axios
 - **기타**: GitHub, Notion
-
