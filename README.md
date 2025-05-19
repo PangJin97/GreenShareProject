@@ -21,10 +21,10 @@
 ## 📱 App 시연 영상
 
 | 기능 설명                   | GIF |
-|----------------------------|----------|
-| 🌿 인기글 목록 확인        | ![인기글 목록](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/인기글%20목록.gif) |
-| 💬 댓글 등록 및 삭제 기능  | ![댓글 기능](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/식물이야기%20댓글%20등록%20삭제.gif) |
-| 🌱 작물 리스트 & 대시보드  | ![작물 리스트](https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/작물리스트와%20대쉬보드.gif) |
+|----------------------------|------|
+| 🌿 인기글 목록 확인        | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/인기글%20목록.gif" width="300"/> |
+| 💬 댓글 등록 및 삭제 기능  | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/식물이야기%20댓글%20등록%20삭제.gif" width="300"/> |
+| 🌱 작물 리스트 & 대시보드  | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/작물리스트와%20대쉬보드.gif" width="300"/> |
 
 ---
 
