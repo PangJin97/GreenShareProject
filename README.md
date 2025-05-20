@@ -10,6 +10,8 @@
 - 🖥️ Web: React  
 - 📱 Mobile App: React Native
 
+---
+
 ## 🔗 레포지토리 구조
 
 | 구분         | 기술 스택                | 링크                                                        |
@@ -21,7 +23,14 @@
 
 ---
 
-## 🌐 Web 시연 영상
+## 🌐 Web 시연 영상 
+
+### 💬 채팅 기능
+[![웹 채팅 기능 시연](https://img.youtube.com/vi/Wdz61vy8E1I/0.jpg)](https://www.youtube.com/watch?v=Wdz61vy8E1I)
+
+> 📌 위 영상은 웹 커뮤니티 내 실시간 채팅 기능을 시연한 YouTube 영상입니다.
+
+---
 
 ### 📝 게시글 등록 (에디터)
 <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/에디터를%20사용한%20게시글%20등록.gif" width="600"/>
@@ -65,4 +74,3 @@
 - **백엔드**: Java, Spring Boot, MariaDB, REST API
 - **프론트엔드**: React, React Native, Axios
 - **협업 도구**: GitHub, Notion
-
