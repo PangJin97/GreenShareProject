@@ -1,23 +1,25 @@
 # 🌱 IoT 기기 연동 및 웹, 앱 식물 커뮤니티 풀스택 개발  
 **(Python, Java/Spring, React·React Native)**  
 
-## 📖 개요
-안녕하세요! GreenShare 프로젝트입니다! 
-- IoT 기기 자동제어 알고리즘 개발 (Python, Raspberry Pi)
-- 백엔드: Java/Spring + MariaDB로 API 서버 구축
-- 프론트엔드: React + React Native로 웹·앱 연동 구현
+## 📖 프로젝트 개요
+안녕하세요! GreenShare 프로젝트입니다.  
+스마트한 식물 관리와 커뮤니티를 위한 IoT 기반 풀스택 플랫폼을 구현했습니다.
 
-## 🔗 레포지토리
+- 🌡️ IoT 기기 자동제어 알고리즘 (Python, Raspberry Pi)
+- 🖥️ API 서버: Java/Spring + MariaDB
+- 🖥️ Web: React  
+- 📱 Mobile App: React Native
 
-| 구분         | 기술 스택                         | 링크                                                        |
-|--------------|----------------------------------|-------------------------------------------------------------|
-| 📱 App       | React Native                      | [greenShareApp](https://github.com/PangJin97/greenShareApp) |
-| 🌐 Frontend  | React                              | [greenShareFront](https://github.com/PangJin97/greenShareFront) |
-| 🖥️ Backend   | Java/Spring + MariaDB              | [greenShareBack](https://github.com/PangJin97/greenShareBack) |
-| 🤖 IoT 제어  | Python (Raspberry Pi)              | [greenSharePython](https://github.com/PangJin97/greenSharePython) |
+## 🔗 레포지토리 구조
+
+| 구분         | 기술 스택                | 링크                                                        |
+|--------------|--------------------------|-------------------------------------------------------------|
+| 📱 App       | React Native             | [greenShareApp](https://github.com/PangJin97/greenShareApp) |
+| 🌐 Frontend  | React                    | [greenShareFront](https://github.com/PangJin97/greenShareFront) |
+| 🖥️ Backend   | Java/Spring + MariaDB     | [greenShareBack](https://github.com/PangJin97/greenShareBack) |
+| 🤖 IoT 제어  | Python (Raspberry Pi)     | [greenSharePython](https://github.com/PangJin97/greenSharePython) |
 
 ---
-
 
 ## 🌐 Web 시연 영상
 
@@ -29,8 +31,7 @@
 | 💬 댓글 삭제/등록/상세보기 | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/댓글%20삭제%20등록%20상세보기.gif" width="700"/> |
 | 🌱 작물 리스트 보기         | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/작물리스트.gif" width="700"/> |
 
-
-
+---
 
 ## 📱 App 시연 영상
 
@@ -42,17 +43,19 @@
 
 ---
 
+## 📌 핵심 기능 요약
+
+- **실시간 IoT 기기 모니터링 및 자동제어**
+- **식물 커뮤니티 (게시글, 댓글, 좋아요, 팔로우, 채팅)**
+- **작물 정보 기반 사용자 맞춤형 관리**
+- **모바일 & 웹 통합 플랫폼 제공**
 
 ---
 
-## 📌 주요 기능
-- IoT 기기 상태 실시간 모니터링 및 자동 제어
-- 식물 관련 커뮤니티 기능 
-- 사용자 맞춤형 식물 관리 시스템
-- 모바일 앱 및 웹 연동을 통한 접근성 향상
+## 🛠️ 주요 기술 스택
 
-## 🛠️ 사용 기술
-- **IoT 제어**: Python, Raspberry Pi, GPIO
+- **IoT 제어**: Python, Raspberry Pi
 - **백엔드**: Java, Spring Boot, MariaDB, REST API
 - **프론트엔드**: React, React Native, Axios
-- **기타**: GitHub, Notion
+- **협업 도구**: GitHub, Notion
+
