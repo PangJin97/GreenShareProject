@@ -22,9 +22,21 @@
 
 | 기능 설명                   | GIF |
 |----------------------------|------|
-| 🌿 인기글 목록 확인        | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/인기글%20목록.gif" width="300"/> |
-| 💬 댓글 등록 및 삭제 기능  | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/식물이야기%20댓글%20등록%20삭제.gif" width="300"/> |
-| 🌱 작물 리스트 & 대시보드  | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/작물리스트와%20대쉬보드.gif" width="300"/> |
+| 🌿 인기글 목록 확인        | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/인기글%20목록.gif" width="250"/> |
+| 💬 댓글 등록 및 삭제 기능  | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/식물이야기%20댓글%20등록%20삭제.gif" width="250"/> |
+| 🌱 작물 리스트 & 대시보드  | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/작물리스트와%20대쉬보드.gif" width="250"/> |
+
+---
+
+## 🌐 Web 시연 영상
+
+| 기능 설명                   | GIF |
+|----------------------------|------|
+| 📝 게시글 등록 (에디터)    | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/에디터를%20사용한%20게시글%20등록.gif" width="250"/> |
+| ❤️ 좋아요 & 팔로우         | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/팔로우,좋아요.gif" width="250"/> |
+| 📃 페이지네이션             | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/페이지네이션.gif" width="250"/> |
+| 💬 댓글 삭제/등록/상세보기 | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/댓글%20삭제%20등록%20상세보기.gif" width="250"/> |
+| 🌱 작물 리스트 보기         | <img src="https://raw.githubusercontent.com/PangJin97/GreenShareProject-/main/작물리스트.gif" width="250"/> |
 
 ---
 
